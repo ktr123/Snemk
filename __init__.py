@@ -1,6 +1,6 @@
 from Mobile import Mobile
 
-__version__ = "0.6.1"
+__version__ = "0.6.1"     fgdg
 class lttsuiautomatorlibrary(Mobile):
     """
     robotframework-lttsuiautomatorlibrary is an extended version of Android device testing library for Robot Framework.
