@@ -1,1 +1,1 @@
-print ('This is Sample python file to execute using jenkins')
+print ('This is Sample python file to execute using jenki')
