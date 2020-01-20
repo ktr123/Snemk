@@ -1,2 +1,6 @@
 Sample for testing.....
+<<<<<<< HEAD
 g
+=======
+It is just sample for understanding Jenkins
+>>>>>>> master
